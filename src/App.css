@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  padding: 4em;
+  background-color:  lightgreen;
+}
+
+.flexbox > div {
+  justify-content: center;
+  display: flex;
+  margin: 10px;
+}
